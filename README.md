@@ -4,7 +4,7 @@ Member: Kwong Ming Wei (S10195172)
 
 Leader: Ryan lee rui yuan (S10195732)
 
-Member: Arrick (S101)
+Member: Arrick (S10198673)
 
 # Description of app
 
@@ -28,8 +28,9 @@ A book reader that imports pdf file of books and allows user to import and gathe
 
 ## Arrick:
 * Settings page app bar
-* All the sqlite
-* Intent activities and onClickListeners
+* SQLite database creation
+* Most of the SQLite functions
+* Loading of imported files
 
 # User guide
 
